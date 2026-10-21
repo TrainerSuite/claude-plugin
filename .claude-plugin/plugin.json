@@ -1,0 +1,14 @@
+{
+  "name": "trainersuite",
+  "displayName": "TrainerSuite",
+  "version": "1.0.0",
+  "description": "Connect your TrainerSuite account to see your schedule, clients and sessions left, and to prepare changes you approve with a tap in TrainerSuite.",
+  "author": {
+    "name": "TrainerSuite",
+    "url": "https://trainersuite.app"
+  },
+  "homepage": "https://trainersuite.app/learn/ai-assistant",
+  "repository": "https://github.com/trainersuite/claude-plugin",
+  "license": "MIT",
+  "keywords": ["personal training", "fitness", "scheduling", "clients", "small business"]
+}
