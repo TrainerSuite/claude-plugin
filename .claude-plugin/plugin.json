@@ -10,5 +10,12 @@
   "homepage": "https://trainersuite.app/learn/ai-assistant",
   "repository": "https://github.com/TrainerSuite/claude-plugin",
   "license": "MIT",
-  "keywords": ["personal training", "fitness", "scheduling", "clients", "small business"]
+  "privacyPolicyUrl": "https://trainersuite.app/privacy",
+  "keywords": [
+    "personal training",
+    "fitness",
+    "scheduling",
+    "clients",
+    "small business"
+  ]
 }
