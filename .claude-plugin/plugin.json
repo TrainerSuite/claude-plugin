@@ -7,10 +7,13 @@
     "name": "TrainerSuite",
     "url": "https://trainersuite.app"
   },
-  "homepage": "https://trainersuite.app/learn/ai-assistant",
+  "homepage": "https://trainersuite.app",
+  "documentationUrl": "https://trainersuite.app/learn/ai-assistant",
+  "supportUrl": "https://trainersuite.app/support",
   "repository": "https://github.com/TrainerSuite/claude-plugin",
   "license": "MIT",
   "privacyPolicyUrl": "https://trainersuite.app/privacy",
+  "termsOfServiceUrl": "https://trainersuite.app/terms",
   "keywords": [
     "personal training",
     "fitness",
