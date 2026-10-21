@@ -8,7 +8,7 @@
     "url": "https://trainersuite.app"
   },
   "homepage": "https://trainersuite.app/learn/ai-assistant",
-  "repository": "https://github.com/trainersuite/claude-plugin",
+  "repository": "https://github.com/TrainerSuite/claude-plugin",
   "license": "MIT",
   "keywords": ["personal training", "fitness", "scheduling", "clients", "small business"]
 }
